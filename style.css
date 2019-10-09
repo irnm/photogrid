@@ -1,0 +1,25 @@
+/* Importing all components file */
+@import url("components/button.css");
+@import url("components/photogrid.css");
+@import url("components/footer.css");
+@import url("components/header.css");
+@import url("components/newsletter.css");
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+/* General for fonts and colors */
+body {
+  margin: auto 0;
+  font-family: 'Rubik', sans-serif;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+
+
